@@ -1,0 +1,6 @@
+  name: BlackMotd
+  main: black.black.BlackMotd
+
+  version: 1.0
+  commands:
+    motd:

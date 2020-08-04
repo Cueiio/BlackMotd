@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlackMotd">
+    <output-path>$PROJECT_DIR$/../../Plugins Jars</output-path>
+    <root id="archive" name="BlackMotd.jar">
+      <element id="module-output" name="BlackMotd" />
+    </root>
+  </artifact>
+</component>
